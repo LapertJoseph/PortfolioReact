@@ -1,5 +1,5 @@
 
-
+// component for Navbar
 
 const Header = () => {
     return (
